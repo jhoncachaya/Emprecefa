@@ -2,7 +2,7 @@
 html, body {width:100%; padding:0; margin:0}
 body {font:14px/25px Arial, Helvetica, sans-serif;color:#000000;min-width:960px;background:#000000}
 .ic {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
-.main {width:100%; background:url(../images/fffondo.jpeg) center 0 repeat; border-top:#000000 5px solid}
+.main {width:100%; background:url(../images/fondoverde.gif) center 0 repeat; border-top:#000000 5px solid}
 /***********************************************************************/
 .tit{
     font-size:40px;
@@ -16,8 +16,16 @@ body {font:14px/25px Arial, Helvetica, sans-serif;color:#000000;min-width:960px;
 .titx{
     font-size:40px;
     margin-bottom: 3%;
-    margin-top: 8%;
+    margin-top: 6%;
     margin-left: 35%;
+    font-style: italic;
+    font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.titxt{
+    font-size:40px;
+    margin-bottom: 3%;
+    margin-top: 6%;
+    margin-left: 40%;
     font-style: italic;
     font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 }
@@ -29,8 +37,34 @@ body {font:14px/25px Arial, Helvetica, sans-serif;color:#000000;min-width:960px;
 .tit2{
     font-size:40px;
     margin-bottom: 3%;
-    margin-top: 8%;
+    margin-top: 6%;
     margin-left: 24%;
+    font-style: italic;
+    font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+.tit13{
+    font-size:40px;
+    margin-bottom: 3%;
+    margin-top: 6%;
+    margin-left: 43%;
+    font-style: italic;
+    font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.titer{
+    font-size:22px;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin-left: 22%;
+    font-style: italic;
+    font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+.titert{
+    font-size:22px;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin-left: 8%;
     font-style: italic;
     font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 }
@@ -129,7 +163,7 @@ ul.list-1 li a:hover {color:#44a7bb}
 .p3 {padding-bottom:17px}
 .p4 {padding-bottom:18px !important}
 .p5 {padding-bottom:14px}
-.p6 {padding-bottom:10px}
+.p6 {padding-bottom:10px }
 
 
 /*********************************header*************************************/
@@ -187,6 +221,9 @@ ul.menu li.home-page span {background:url(../images/home-page-img.png) 0 0 no-re
 .block-1>div a.button {margin:18px 0 0 0}
 
 .aside {background:#f9f9fb; width:100%; padding:33px 0 60px 0}
+
+.bannnerimg
+{width:940px; height:180px; margin:0}
 
 .block-2>div {float:left; width:420px; margin-right:40px}
 
